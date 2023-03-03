@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\bin\Debug\net6.0\ConsoleAtmData.deps.json
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\bin\Debug\net6.0\ConsoleAtmData.runtimeconfig.json
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\bin\Debug\net6.0\ConsoleAtmData.dll
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\bin\Debug\net6.0\ConsoleAtmData.pdb
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ConsoleAtmData.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ConsoleAtmData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ConsoleAtmData.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ConsoleAtmData.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ConsoleAtmData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ConsoleAtmData.dll
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\refint\ConsoleAtmData.dll
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ConsoleAtmData.pdb
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ConsoleAtmData.genruntimeconfig.cache
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ref\ConsoleAtmData.dll

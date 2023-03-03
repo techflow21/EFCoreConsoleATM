@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\bin\Debug\net6.0\EFCoreATM_Domain.deps.json
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\bin\Debug\net6.0\EFCoreATM_Domain.dll
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\bin\Debug\net6.0\EFCoreATM_Domain.pdb
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\bin\Debug\net6.0\EFCoreATM_Data.dll
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\bin\Debug\net6.0\EFCoreATM_Data.pdb
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.csproj.CopyComplete
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.dll
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\refint\EFCoreATM_Domain.dll
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.pdb
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\ref\EFCoreATM_Domain.dll
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\bin\Debug\net6.0\EFCoreATM_Data.dll.config
