@@ -14,3 +14,4 @@ C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\refint
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\EFCoreATM_Domain.pdb
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\obj\Debug\net6.0\ref\EFCoreATM_Domain.dll
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\bin\Debug\net6.0\EFCoreATM_Data.dll.config
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Domain\bin\Debug\net6.0\App.config

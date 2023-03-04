@@ -60,3 +60,4 @@ C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Interface\obj\Debug\net6.0\EFC
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Interface\obj\Debug\net6.0\ref\EFCoreATM_Interface.dll
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Interface\bin\Debug\net6.0\NLog.dll
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Interface\bin\Debug\net6.0\EFCoreATM_Data.dll.config
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\EFCoreATM_Interface\bin\Debug\net6.0\App.config

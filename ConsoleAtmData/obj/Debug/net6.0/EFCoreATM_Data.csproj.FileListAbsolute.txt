@@ -13,3 +13,4 @@ C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\EFCoreAT
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\EFCoreATM_Data.genruntimeconfig.cache
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\obj\Debug\net6.0\ref\EFCoreATM_Data.dll
 C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\bin\Debug\net6.0\EFCoreATM_Data.dll.config
+C:\Users\HP\Desktop\NewM\ConsoleAtmData\ConsoleAtmData\bin\Debug\net6.0\App.config
