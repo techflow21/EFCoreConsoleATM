@@ -1,5 +1,4 @@
-﻿
-namespace EFCoreATM_Interface
+﻿namespace EFCoreATM_Interface
 {
     public class Utility
     {
@@ -33,5 +32,7 @@ namespace EFCoreATM_Interface
         {
             Console.WriteLine("\n\t ============================ \n\t | Welcome to EF_ConsoleATM | \n\t ============================");
         }
+
+
     }
 }

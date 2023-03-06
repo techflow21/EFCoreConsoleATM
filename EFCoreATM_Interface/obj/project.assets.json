@@ -1989,9 +1989,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\NewM\\ConsoleAtmData\\EFCoreATM_Interface\\EFCoreATM_Interface.csproj",
-      "projectName": "EFCoreATM_Interface",
-      "projectPath": "C:\\Users\\HP\\Desktop\\NewM\\ConsoleAtmData\\EFCoreATM_Interface\\EFCoreATM_Interface.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\NewM\\ConsoleAtmData\\EFCoreATM_Interface\\EFCoreATM_UI.csproj",
+      "projectName": "EFCoreATM_UI",
+      "projectPath": "C:\\Users\\HP\\Desktop\\NewM\\ConsoleAtmData\\EFCoreATM_Interface\\EFCoreATM_UI.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\Desktop\\NewM\\ConsoleAtmData\\EFCoreATM_Interface\\obj\\",
       "projectStyle": "PackageReference",

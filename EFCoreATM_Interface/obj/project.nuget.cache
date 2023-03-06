@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0h+d07QmcIxU2vSqb65ATIiR8zXgO51lTCGQu4c1RL0/vZv9m+KTojz5kyfjKW8HBdTxFehUoKEKw58HK9MY/w==",
+  "dgSpecHash": "Mp8MHosUUlIPprKoPvCgRllWs4+o0bSCXaWk45K+1/vh4K3qhz0zxxqAr2beM6VL0IKLNfNHGPRaHFx2te1zeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\NewM\\ConsoleAtmData\\EFCoreATM_Interface\\EFCoreATM_Interface.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\NewM\\ConsoleAtmData\\EFCoreATM_Interface\\EFCoreATM_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
