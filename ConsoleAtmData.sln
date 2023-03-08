@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreATM_Data", "ConsoleAtmData\EFCoreATM_Data.csproj", "{59DFB510-654B-4366-BBA0-C348FD7E2C78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreATM_Domain", "EFCoreATM_Domain\EFCoreATM_Domain.csproj", "{8857ABE7-443B-47A1-9041-97F37BA390C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreATM_Domain", "EFCoreATM_Domain\EFCoreATM_Domain.csproj", "{8857ABE7-443B-47A1-9041-97F37BA390C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreATM_Interface", "EFCoreATM_Interface\EFCoreATM_Interface.csproj", "{14308CC0-AF23-4D12-8A2F-6AF8669A3A6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreATM_UI", "EFCoreATM_Interface\EFCoreATM_UI.csproj", "{14308CC0-AF23-4D12-8A2F-6AF8669A3A6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
